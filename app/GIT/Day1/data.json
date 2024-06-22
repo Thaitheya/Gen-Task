@@ -1,0 +1,8 @@
+{
+    "name" : "Thaitheyasudan",
+     "age" :24,
+     "address" : {
+        "street" :"17 BH Lane kamarajar salai"},
+     "language": [],
+     "isMarried": true
+}
